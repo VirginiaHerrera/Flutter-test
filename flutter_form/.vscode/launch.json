@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "name": "flutter_form",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_form (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "flutter_form (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "flutter_form (Flutter)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "flutter_form (Flutter)",
+      "program": "lib/main.dart",
+      "request": "launch",
+      "type": "dart"
+    }
+  ]
+}
